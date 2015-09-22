@@ -2,11 +2,11 @@
 
 ##### _Add, delete, edit, and search students,  9/20/15_
 
-#### By _**Jeff Austin**_
+#### By _**Jeff Austin & Julio Diaz **_
 
 ## Description
 
-_This application allows users to add a student to a list. User can edit students by clicking on the name of the student. There is a delete tag by each students name that allows user to delete a student. There is a search field that allows you to search for a specific student._
+_This application allows users to add a student to a list. User can edit students by clicking on the name of the student. There is a delete tag by each students name that allows user to delete a student. There is a search field that allows you to search for a specific student. Also allows users to add whether or not a student has a permission slip for a field trip_
 
 ## Setup
 
@@ -20,7 +20,7 @@ _JavaScript, Angular_
 
 ### Legal
 
-Copyright (c) 2015 **_Jeff Austin_**
+Copyright (c) 2015 **_Jeff Austin & Julio Diaz_**
 
 This software is licensed under the MIT license.
 
